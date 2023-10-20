@@ -1,5 +1,5 @@
 pelotas = [];
-const NP = 10;
+const NP = 100;
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
